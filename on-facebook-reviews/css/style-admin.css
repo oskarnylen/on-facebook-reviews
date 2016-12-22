@@ -1,0 +1,33 @@
+.support {
+	background-color: #fFfFfF;
+	width: 40%;
+	margin-top:45px;
+	box-shadow: 0.5px 1px 1px #b3b3b3;
+
+    border-left: solid #dd3d36;
+    border-width: 4px;
+}
+
+.support-heading {
+	padding: 10px 20px 0px 20px;
+}
+
+.support-heading-text {
+	color: #4d4d4d !important;
+}
+
+.support-text {
+	padding: 0px 20px 10px 20px;
+	color: #666666;
+	text-align:justify;
+}
+
+.onfbr-shortcode {
+	margin-top: 20px;
+	margin-bottom: 30px;
+	line-height: 20px;
+}
+
+.hidden {
+	display: none;
+}
